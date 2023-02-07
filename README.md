@@ -1,1 +1,3 @@
-# Revoluci-n-Latina-Remake
+# Revolución Latina Remake
+
+Este fue mi primer gamemode realizado en SAMP, luego de varios años aprendiendo y editando una programada por Carlos Valencia, decidí hacer una desde 0 para aprender e intentar crear mis propios métodos. Esta versión tiene un tercio de las líneas que la versión original de RL pero tiene varios sistemas como crear propiedades con comandos que se guardan en archivos .ini. Además de sistema de carreras que también se crean con el servidor prendido y se van guardando en archivos .ini. Entre esto, muchas cosas más que en su momento implementé con poco conocimiento. Al igual que la anterior, no recomiendo utilizar este modo de juego ya que su seguridad es pobre y no tiene encriptación de contraseñas.
